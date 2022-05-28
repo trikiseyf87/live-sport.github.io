@@ -63,3 +63,46 @@ https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.smil/chunklist_b1500000.m3
 https://dmithrvll.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-name="Dubai SPORT 6 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/71/5bfea86c98.png",Dubai Racing 3 HD
 https://dmithrvll.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-name="ENTV" tvg-id="ALGERIA" group-title="ENTV" tvg-logo="http://hta.backoffice.easybroadcast.fr/channel/9_picture.png",ENTV
+https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal Algerie" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/4_picture.png",Canal Algerie
+https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/playlist.m3u8
+#EXTINF:-1 tvg-name="Algerie 3" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/1_picture.png",Algerie 3
+https://cdn02.hta.dz/abr_htatv/A3_HD/playlist.m3u8
+#EXTINF:-1 tvg-name="Algerie 4" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/124_picture.png",Algerie 4
+https://cdn02.hta.dz/abr_htatv/TV_4/playlist.m3u8
+#EXTINF:-1 tvg-name="Algerie 5" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/73_picture.png",Algerie 5
+https://cdn02.hta.dz/abr_htatv/TV_5/playlist.m3u8
+#EXTINF:-1 tvg-name="Algerie 6" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/137_picture.png",Algerie 6
+https://cdn02.hta.dz/abr_htatv/TV_6_HD/playlist.m3u8
+#EXTINF:-1 tvg-name="Algerie 7" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/138_picture.png",Algerie 7
+https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/playlist.m3u8
+#EXTINF:-1 tvg-name="Algerie 8" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/141_picture.png",Algerie 8
+https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/playlist.m3u8
+#EXTINF:-1 tvg-name="EL BILAD TV" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/3_picture.png",EL BILAD TV
+https://cdn02.hta.dz/abr_htatv/EL_BILAD/playlist.m3u8
+#EXTINF:-1 tvg-name="ECHOROUK TV" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/6_picture.png",EL BILAD TV
+https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/playlist.m3u8
+#EXTINF:-1 tvg-name="ECHOROUK TV" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/18_picture.png",EL BILAD TV
+https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8
+#EXTINF:-1 tvg-name="ECHOROUK TV" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/8_picture.png",EL BILAD TV
+https://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/playlist.m3u8
+#EXTINF:-1 tvg-name="ECHOROUK TV" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/7_picture.png",EL BILAD TV
+https://cdn02.hta.dz/abr_htatv/EL_DJAZAIRIA_TV/playlist.m3u8
+#EXTINF:-1 tvg-name="ECHOROUK TV" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/123_picture.png",EL BILAD TV
+https://cdn02.hta.dz/abr_htatv/Bahia_TV/playlist.m3u8
+#EXTINF:-1 tvg-name="ECHOROUK TV" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/129_picture.png",EL BILAD TV
+https://cdn02.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/playlist.m3u8
+#EXTINF:-1 tvg-name="ECHOROUK TV" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/140_picture.png",EL BILAD TV
+https://cdn02.hta.dz/abr_htatv/Lina_TV/playlist.m3u8
+#EXTINF:-1 tvg-name="ECHOROUK TV" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/10_picture.png",EL BILAD TV
+https://tv.hiho5.com:8443/live/hamzaUs02/A62DKgdgfe65/100.m3u8
+#EXTINF:-1 tvg-name="ECHOROUK TV" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/132_picture.png",EL BILAD TV
+https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/playlist.m3u8
+#EXTINF:-1 tvg-name="ECHOROUK TV" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/139_picture.png",EL BILAD TV
+https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/playlist.m3u8
+#EXTINF:-1 tvg-name="ECHOROUK TV" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/130_picture.png",EL BILAD TV
+https://cdn02.hta.dz/abr_htatv/EL_FADJR_TV_DZ/playlist.m3u8
+#EXTINF:-1 tvg-name="ECHOROUK TV" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/15_picture.png",EL BILAD TV
+http://56.bihourmkras.xyz.global.prod.fastly.net/live/022/index.m3u8
