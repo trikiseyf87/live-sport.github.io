@@ -24,8 +24,13 @@ http://217.74.16.155:8082/local//ar-s/bein-7-stop/index.m3u8
 http://217.74.16.155:8082/local//ar-s/bein-afc-1/index.m3u8
 #EXTINF:-1 tvg-name="beIN AFC 2 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-07.png",beIN AFC 2 HD
 http://217.74.16.155:8082/local//ar-s/bein-afc-2/index.m3u8
-#EXTINF:-1 tvg-name="beIN AFC 3 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-08.png",beIN AFCAF 3 HD
+#EXTINF:-1 tvg-name="beIN AFC 3 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-08.png",beIN AFC 3 HD
 http://217.74.16.155:8082/local//ar-s/bein-afc-3/index.m3u8
+
+#EXTINF:-1 tvg-name="Unifi Sports 1 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="ASTRO SPORT",Unifi Sports 1
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1 tvg-name="Unifi Sports 1 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="ASTRO SPORT",Unifi Sports 2
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
 #EXTINF:-1 tvg-name="SSC SPORT 1 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_1HD_AW-01.png",SSC SPORT 1 HD
 http://217.74.16.155:8082/local//ar-s/SSC1/index.m3u8
