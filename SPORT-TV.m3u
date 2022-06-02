@@ -21,7 +21,7 @@ http://217.74.16.155:8082/local//ar-s/bein-6-stop/index.m3u8
 http://217.74.16.155:8082/local//ar-s/bein-7-stop/index.m3u8
 
 #EXTINF:-1 tvg-name="beIN AFC 1 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-06.png",beIN AFC 1 HD
-https://github.com/mo3ad801/omartv/raw/main/tv_channels_live_.m3u8
+https://github.com/trikiseyf87/SPORT/raw/main/bein1prm.m3u8
 #EXTINF:-1 tvg-name="beIN AFC 2 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-07.png",beIN AFC 2 HD
 http://217.74.16.155:8082/local//ar-s/bein-afc-2/index.m3u8
 #EXTINF:-1 tvg-name="beIN AFC 3 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-08.png",beIN AFC 3 HD
