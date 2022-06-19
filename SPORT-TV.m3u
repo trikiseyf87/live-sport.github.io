@@ -20,14 +20,6 @@ https://dl.dropboxusercontent.com/s/4odmumlmo7rzids/.m3u8
 #EXTINF:-1 tvg-name="beIN SPORT 7 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",beIN SPORT 7 HD
 https://dl.dropboxusercontent.com/s/8rjzgssgvdr0gqs/.m3u8
 
-
-#EXTINF:-1 tvg-name="beIN AFC 1 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-06.png",beIN AFC 1 HD
-https://rtmpsrv.speedclick.ps/beIN_Sports1P_complexiptv/tracks-v1a1/mono.m3u8?token=MONITORING
-#EXTINF:-1 tvg-name="beIN AFC 2 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-07.png",beIN AFC 2 HD
-https://rtmpsrv.speedclick.ps/beIN_Sports1P_complexiptv/tracks-v1a1/mono.m3u8?token=MONITORING
-#EXTINF:-1 tvg-name="beIN AFC 3 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-08.png",beIN AFC 3 HD
-https://rtmpsrv.speedclick.ps/beIN_Sports1P_complexiptv/tracks-v1a1/mono.m3u8?token=MONITORING
-
 #EXTINF:-1 tvg-name="Unifi Sports 1 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="ASTRO SPORT",Unifi Sports 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.m3u8
 #EXTINF:-1 tvg-name="Unifi Sports 1 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="ASTRO SPORT",Unifi Sports 2
